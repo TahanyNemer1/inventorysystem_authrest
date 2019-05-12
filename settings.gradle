@@ -1,0 +1,8 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'InventorySystem_AuthREST'
+include 'brugeradminauth'
+
